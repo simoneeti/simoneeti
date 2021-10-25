@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @simoneeti
-- 👀 I’m interested in Python, ML, React, creating applications from scratch, inner workings of a computer, learning C, game development, REST APIs, ethical hacking and pentesting
+- 👀 I’m interested in Python, ML, React, creating applications from scratch, computers' inner workings, learning C, game development, REST APIs, ethical hacking and pentesting
 - 🌱 I’m currently learning React, Kubernetes, Pandas
 - 💞️ I’m looking to collaborate on anything cool!
 - 📫 How to reach me: vintrob.simon@gmail.com
